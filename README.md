@@ -24,6 +24,12 @@ Os dados brutos estão disponíveis em data/raw/, e o dataset processado final e
 - Em emissões de gases com efeito de estufa, Portugal está sistematicamente abaixo da média europeia nos três principais gases analisados (CO2, CH4, N2O).
 - Não foi encontrada correlação clara entre percentagem de energia renovável e emissões per capita; outros fatores, como estrutura industrial e consumo total, parecem pesar mais.
 
+## Dashboard
+O dashboard interativo completo está publicado no Tableau Public:
+[EU & Portugal Renewable Energy Tracker](https://public.tableau.com/app/profile/artur.albuquerque/viz/EUPortugalRenewableEnergyTracker/VisoGeral)
+
+O dashboard responde à pergunta principal do projeto. Análises mais profundas, incluindo a decomposição por gás individual, a normalização por população, e a previsão estatística de quando Portugal atinge a meta, estão disponíveis no notebook notebooks/03_forecast_and_gases.ipynb, não fazem parte do dashboard.
+
 ## Como Correr o Projeto Localmente
  
 1. Clonar o repositório:
