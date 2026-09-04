@@ -55,5 +55,7 @@ notebooks/03_forecast_and_gases.ipynb
 ```
  
 ## Licença
- 
 Este projeto está licenciado sob os termos definidos no ficheiro `LICENSE`.
+
+## Limitações
+Os dados apresentados correspondem a uma extração específica do Eurostat, feita em 2026, cobrindo o período de 2004 a 2024. O projeto não tem atualização automática; para refletir dados mais recentes, é necessário correr novamente etl/extract.py, repetir a transformação nos notebooks, e publicar de novo o dashboard no Tableau Public.
