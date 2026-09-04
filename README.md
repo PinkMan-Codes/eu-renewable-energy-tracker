@@ -10,9 +10,9 @@ Foi construído como projeto pessoal de aprendizagem, cobrindo todo o ciclo de u
 # Fontes de Dados
 Todos os dados usados são públicos e provenientes do Eurostat:
 
-**sdg_07_40** - Share of renewable energy in gross final energy consumption by sector
-**env_air_gge** - Greenhouse gas emissions by source sector
-**demo_pjan** - Population on 1 January by age and sex
+- `sdg_07_40`, - Share of renewable energy in gross final energy consumption by sector
+- `env_air_gge`, - Greenhouse gas emissions by source sector
+- `demo_pjan`, - Total population by country and year
 
 Os dados brutos estão disponíveis em data/raw/, e o dataset processado final em data/raw/processed/eu_renewable_emissions.csv.
 
